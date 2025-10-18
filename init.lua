@@ -15,4 +15,4 @@ require("ohpxho.plugins.treesitter")
 require("ohpxho.plugins.gitsigns")
 require("ohpxho.plugins.web-devicons")
 require("ohpxho.plugins.conform")
-
+require("ohpxho.plugins.windsurf")
