@@ -14,7 +14,7 @@ return {
       require("nvim-autopairs").setup()
     end,
   },
-  
+
   -- Surround
   {
     "kylechui/nvim-surround",
@@ -26,7 +26,7 @@ return {
       })
     end,
   },
-  
+
   -- Comments
   {
     "numToStr/Comment.nvim",
@@ -35,4 +35,5 @@ return {
     end,
   },
 
-} 
+}
+
